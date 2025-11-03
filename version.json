@@ -1,4 +1,5 @@
 {
   "latest": "0.0.2",
-  "changelog": "Dodano czat bota, cooldown między wejściami botów oraz system aktualizacji."
+  "changelog": "Naprawiono błędy, dodano automatyczny updater.",
+  "download": "https://github.com/863509309560340586083475690739679834/pawelotto12/releases/download/v0.0.2/G3000exe"
 }
